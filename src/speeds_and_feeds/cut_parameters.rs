@@ -1,7 +1,3 @@
-use std::fmt::Display;
-use std::fmt::Formatter;
-
-
 use crate::speeds_and_feeds::cut_strategy::CutStrategy;
 use crate::speeds_and_feeds::cut_type::CutType;
 use crate::speeds_and_feeds::material::Material;
